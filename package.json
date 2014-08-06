@@ -1,6 +1,7 @@
 {
   "name": "tvchous-client",
   "version": "0.0.1",
+  "main": "lib/Client.js",
   "dependencies": {
     "es6-promise": "^1.0.0",
     "socket.io-client": "^1.0.6",
